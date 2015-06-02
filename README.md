@@ -1,2 +1,2 @@
 # SomethingAwesome
-My Something Awesome repository for UNSW 2015/
+My Something Awesome repository for UNSW 2015
