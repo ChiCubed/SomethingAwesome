@@ -1,0 +1,17 @@
+# Constants
+IDLE = 0
+JUMP = 1
+JOG = 2
+
+LEFT = 0
+RIGHT = 1
+
+SIZE = 64
+
+BLACK = (0, 0, 0)
+
+WINDOW_SIZE = 500
+
+FPS = 30
+
+NUM_LEVELS = 5
